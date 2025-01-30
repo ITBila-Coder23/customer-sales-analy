@@ -1,4 +1,3 @@
-sales_analysis.py
 import pandas as pd
 
 # Load the dataset (Make sure 'sales_data.xlsx' is in the same folder)
